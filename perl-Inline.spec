@@ -83,15 +83,15 @@ find %{buildroot} -type f -name '*.bs' -empty -exec rm -f {} ';'
 
 %files
 %defattr(-,root,root,-)
-/usr/lib/perl5/vendor_perl/5.28.0/Inline.pm
-/usr/lib/perl5/vendor_perl/5.28.0/Inline.pod
-/usr/lib/perl5/vendor_perl/5.28.0/Inline/API.pod
-/usr/lib/perl5/vendor_perl/5.28.0/Inline/FAQ.pod
-/usr/lib/perl5/vendor_perl/5.28.0/Inline/Foo.pm
-/usr/lib/perl5/vendor_perl/5.28.0/Inline/MakeMaker.pm
-/usr/lib/perl5/vendor_perl/5.28.0/Inline/MakeMaker/Changes
-/usr/lib/perl5/vendor_perl/5.28.0/Inline/Support.pod
-/usr/lib/perl5/vendor_perl/5.28.0/Inline/denter.pm
+/usr/lib/perl5/vendor_perl/5.28.1Inline.pm
+/usr/lib/perl5/vendor_perl/5.28.1Inline.pod
+/usr/lib/perl5/vendor_perl/5.28.1Inline/API.pod
+/usr/lib/perl5/vendor_perl/5.28.1Inline/FAQ.pod
+/usr/lib/perl5/vendor_perl/5.28.1Inline/Foo.pm
+/usr/lib/perl5/vendor_perl/5.28.1Inline/MakeMaker.pm
+/usr/lib/perl5/vendor_perl/5.28.1Inline/MakeMaker/Changes
+/usr/lib/perl5/vendor_perl/5.28.1Inline/Support.pod
+/usr/lib/perl5/vendor_perl/5.28.1Inline/denter.pm
 
 %files dev
 %defattr(-,root,root,-)
