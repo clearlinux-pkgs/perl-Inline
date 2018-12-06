@@ -4,7 +4,7 @@
 #
 Name     : perl-Inline
 Version  : 0.80
-Release  : 5
+Release  : 6
 URL      : https://cpan.metacpan.org/authors/id/I/IN/INGY/Inline-0.80.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/I/IN/INGY/Inline-0.80.tar.gz
 Source1  : http://http.debian.net/debian/pool/main/libi/libinline-perl/libinline-perl_0.80-1.debian.tar.xz
