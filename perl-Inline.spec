@@ -4,7 +4,7 @@
 #
 Name     : perl-Inline
 Version  : 0.82
-Release  : 11
+Release  : 12
 URL      : https://cpan.metacpan.org/authors/id/T/TI/TINITA/Inline-0.82.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/T/TI/TINITA/Inline-0.82.tar.gz
 Source1  : http://http.debian.net/debian/pool/main/libi/libinline-perl/libinline-perl_0.80-1.debian.tar.xz
