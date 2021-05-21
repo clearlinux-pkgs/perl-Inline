@@ -103,12 +103,12 @@ find %{buildroot} -type f -name '*.bs' -empty -exec rm -f {} ';'
 
 %files perl
 %defattr(-,root,root,-)
-/usr/lib/perl5/vendor_perl/5.32.1/Inline.pm
-/usr/lib/perl5/vendor_perl/5.32.1/Inline.pod
-/usr/lib/perl5/vendor_perl/5.32.1/Inline/API.pod
-/usr/lib/perl5/vendor_perl/5.32.1/Inline/FAQ.pod
-/usr/lib/perl5/vendor_perl/5.32.1/Inline/Foo.pm
-/usr/lib/perl5/vendor_perl/5.32.1/Inline/MakeMaker.pm
-/usr/lib/perl5/vendor_perl/5.32.1/Inline/MakeMaker/Changes
-/usr/lib/perl5/vendor_perl/5.32.1/Inline/Support.pod
-/usr/lib/perl5/vendor_perl/5.32.1/Inline/denter.pm
+/usr/lib/perl5/vendor_perl/5.34.0/Inline.pm
+/usr/lib/perl5/vendor_perl/5.34.0/Inline.pod
+/usr/lib/perl5/vendor_perl/5.34.0/Inline/API.pod
+/usr/lib/perl5/vendor_perl/5.34.0/Inline/FAQ.pod
+/usr/lib/perl5/vendor_perl/5.34.0/Inline/Foo.pm
+/usr/lib/perl5/vendor_perl/5.34.0/Inline/MakeMaker.pm
+/usr/lib/perl5/vendor_perl/5.34.0/Inline/MakeMaker/Changes
+/usr/lib/perl5/vendor_perl/5.34.0/Inline/Support.pod
+/usr/lib/perl5/vendor_perl/5.34.0/Inline/denter.pm
