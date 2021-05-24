@@ -4,7 +4,7 @@
 #
 Name     : perl-Inline
 Version  : 0.86
-Release  : 23
+Release  : 24
 URL      : https://cpan.metacpan.org/authors/id/I/IN/INGY/Inline-0.86.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/I/IN/INGY/Inline-0.86.tar.gz
 Summary  : 'Write Perl Subroutines in Other Programming Languages'
