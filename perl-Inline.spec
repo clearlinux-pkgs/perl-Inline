@@ -4,7 +4,7 @@
 #
 Name     : perl-Inline
 Version  : 0.86
-Release  : 26
+Release  : 27
 URL      : https://cpan.metacpan.org/authors/id/I/IN/INGY/Inline-0.86.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/I/IN/INGY/Inline-0.86.tar.gz
 Summary  : 'Write Perl Subroutines in Other Programming Languages'
@@ -103,12 +103,4 @@ find %{buildroot} -type f -name '*.bs' -empty -exec rm -f {} ';'
 
 %files perl
 %defattr(-,root,root,-)
-/usr/lib/perl5/vendor_perl/5.34.0/Inline.pm
-/usr/lib/perl5/vendor_perl/5.34.0/Inline.pod
-/usr/lib/perl5/vendor_perl/5.34.0/Inline/API.pod
-/usr/lib/perl5/vendor_perl/5.34.0/Inline/FAQ.pod
-/usr/lib/perl5/vendor_perl/5.34.0/Inline/Foo.pm
-/usr/lib/perl5/vendor_perl/5.34.0/Inline/MakeMaker.pm
-/usr/lib/perl5/vendor_perl/5.34.0/Inline/MakeMaker/Changes
-/usr/lib/perl5/vendor_perl/5.34.0/Inline/Support.pod
-/usr/lib/perl5/vendor_perl/5.34.0/Inline/denter.pm
+/usr/lib/perl5/*
